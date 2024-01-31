@@ -1,4 +1,5 @@
 # COMP301 Fall22 Project 3
+Koc University Programming Language Concepts class project.
 
 #### Description
 In the first part of the project, implemented a translator for the LETREC language. In the second part, modified the translator for the LEXADDR so that the variables in the expressions will be renamed according to the number of occurrences.
